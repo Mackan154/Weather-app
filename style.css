@@ -1,0 +1,33 @@
+body{
+    background-image: url(weather.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.search{
+    width: 87%;
+    height: 37px;
+}
+.submit-search{
+    margin-bottom: 5px;
+}
+.vertical-center {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%);
+   
+  }
+.vertical-center-information{
+position: absolute;
+top: 25%;
+left: 50%;
+transform: translate(-50%);
+
+}
+.day-information{
+    width: 14.25%;
+    background-color: #8a8988;
+}
+.lightgray-background{
+  background-color: #cfcecc; 
+}
